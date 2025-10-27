@@ -1,0 +1,16 @@
+{
+  "name": "wa_auto_messenger_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to automate messaging between WhatsApp accounts, featuring account linking, scheduling, and random message bridging.",
+  "main": "wa_auto_messenger_bot.js",
+  "scripts": {
+    "start": "node wa_auto_messenger_bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+    // Uncomment and add if using WhatsApp integration:
+    // "whatsapp-web.js": "^1.21.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
