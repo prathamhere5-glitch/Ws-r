@@ -7,8 +7,7 @@
     "start": "node wa_auto_messenger_bot.js"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0"
-    
+    "node-telegram-bot-api": "^0.61.0",
     "whatsapp-web.js": "^1.21.0"
   },
   "author": "Your Name",
